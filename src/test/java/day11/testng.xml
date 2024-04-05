@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Mytest">
+    <classes>
+      <class name="day11.Test1"/>
+      <class name="day11.Test2"/>
+    </classes>
+  </test> 
+</suite>
