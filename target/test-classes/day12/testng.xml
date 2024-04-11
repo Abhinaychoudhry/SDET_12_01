@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Gtest">
+  <groups> 
+  <run> 
+  <include name="sanity">
+  <exclude name="regression"> </exclude>
+  </include>
+  </run>
+  </groups>
+    <classes>
+      <class name="day12.Grouping_demo"/>
+    </classes>
+  </test> 
+</suite> 
